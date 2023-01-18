@@ -1,6 +1,6 @@
 matplotlib
 numpy
-pycocotools
+pycocotools-windows
 scipy
 six
 terminaltables
